@@ -879,3 +879,66 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.19-09.50.46:498][815]LogSavePackage: Moving '../../../../../../Users/denni/OneDrive/Documenten/GitHub/Helpman1/Saved/Main04121D97453154DDF77CCDA32D4FD2DC.tmp' to '../../../../../../Users/denni/OneDrive/Documenten/GitHub/Helpman1/Content/Levels/Main.umap'
 [2021.02.19-09.50.46:519][815]AssetCheck: New page: Asset Save: Main
 [2021.02.19-09.50.46:519][815]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2021.02.19-09.55.36:798][731]LogActorFactory: Actor Factory created Cube
+[2021.02.19-09.55.38:003][861]LogActorFactory: Actor Factory created Cube
+[2021.02.19-09.55.57:738][148]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.02.19-09.55.58:643][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.02.19-09.56.08:189][276]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.19-09.56.08:197][276]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.19-09.56.08:199][276]PIE: New page: PIE session: Main (19 feb. 2021 11:56:08)
+[2021.02.19-09.56.08:200][276]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.02.19-09.56.08:201][276]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.02.19-09.56.08:201][276]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Main
+[2021.02.19-09.56.08:203][276]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002084s)
+[2021.02.19-09.56.08:204][276]LogAIModule: Creating AISystem for world Main
+[2021.02.19-09.56.08:204][276]LogPlayLevel: PIE: World Init took: (0.001000s)
+[2021.02.19-09.56.08:204][276]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main.Main to /Game/Levels/UEDPIE_0_Main.Main (0.003199s)
+[2021.02.19-09.56.08:207][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.02.19-09.56.08:208][276]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.02.19-09.56.08:208][276]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.19-09.56.08:208][276]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.19-09.56.08:208][276]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.19-09.56.08:208][276]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.19-09.56.08:208][276]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.19-09.56.08:208][276]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.19-09.56.08:208][276]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.19-09.56.08:208][276]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.19-09.56.08:209][276]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.19-09.56.08:209][276]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.19-09.56.08:212][276]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.19-09.56.08:212][276]LogAudioMixer: Display: 1: FrontRight
+[2021.02.19-09.56.08:217][276]LogAudioMixer: Display: Using Audio Device SPDIF-interface (3- FiiO USB DAC-E10)
+[2021.02.19-09.56.08:217][276]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.19-09.56.08:217][276]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.19-09.56.08:217][276]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.19-09.56.08:217][276]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.19-09.56.08:217][276]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.19-09.56.08:217][276]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.19-09.56.08:229][276]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.19-09.56.08:229][276]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.19-09.56.08:229][276]LogInit: FAudioDevice initialized.
+[2021.02.19-09.56.08:229][276]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main'.
+[2021.02.19-09.56.08:238][276]LogLoad: Game class is 'GameModeBase'
+[2021.02.19-09.56.08:240][276]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2021.02.19-10.56.08
+[2021.02.19-09.56.08:240][276]LogWorld: Bringing up level for play took: 0.000528
+[2021.02.19-09.56.08:240][276]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.02.19-09.56.08:246][276]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.02.19-09.56.08:248][276]PIE: Server logged in
+[2021.02.19-09.56.08:249][276]PIE: Play in editor total start time 0,052 seconds.
+[2021.02.19-09.56.14:735][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-09.56.14:735][ 45]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Main
+[2021.02.19-09.56.14:736][ 45]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-09.56.14:736][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-09.56.14:741][ 45]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.19-09.56.14:752][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-09.56.14:754][ 45]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.19-09.56.14:754][ 45]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-09.56.14:755][ 45]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-09.56.14:768][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-09.56.14:769][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.02.19-09.56.14:851][ 47]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.02.19-09.56.21:361][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Users/denni/OneDrive/Documenten/GitHub/Helpman1/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.19-09.56.21:365][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.02.19-09.56.21:376][810]LogSavePackage: Moving '../../../../../../Users/denni/OneDrive/Documenten/GitHub/Helpman1/Saved/Main0405037A4581A8D24051A2A42E042EA1.tmp' to '../../../../../../Users/denni/OneDrive/Documenten/GitHub/Helpman1/Content/Levels/Main.umap'
+[2021.02.19-09.56.21:395][810]AssetCheck: New page: Asset Save: Main
+[2021.02.19-09.56.21:395][810]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
